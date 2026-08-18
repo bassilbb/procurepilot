@@ -174,3 +174,8 @@
 *.lz
 *.lzma
 *.iso
+
+# Workspace-root stray files (not part of the procurepilot app)
+/composer.json
+/composer.lock
+/vendor/
