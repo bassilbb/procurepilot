@@ -23,9 +23,13 @@ Live on **port 8000** (`http://localhost:8000`). Login: `admin@nsc.gov.ng` or `s
    - `E2E_TESTING_GUIDE.md` — 80 test cases across all modules + procure-to-pay scenario
 
 4. **Pitch Deck**
-   - `presentation/ProcurePilot-Pitch-Deck.pdf` — 15 slides, 16:9, ~4.6 MB, real app screenshots
+   - `presentation/ProcurePilot-Pitch-Deck.pdf` — 15 slides, 16:9, ~4.7 MB, real app screenshots (incl. public no-login requirements page)
    - `presentation/ProcurePilot-Pitch-Deck.html` — editable source
    - `presentation/images/` — all captured screenshots
+
+5. **E2E Testing Manual (PDF)**
+   - `presentation/ProcurePilot-E2E-Testing-Manual.pdf` — 9 pages, A4, full end-to-end test guide
+   - Source: `E2E_TESTING_GUIDE.md`
 
 ## Foundation (pre-session)
 - Role permissions (V/C/E/D/A matrix), superadmin access control, role dashboards, Chart.js spend charts, real payment gateways (Paystack/Flutterwave/Mono) with webhooks, permission-filtered sidebar.
